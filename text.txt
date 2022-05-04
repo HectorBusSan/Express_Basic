@@ -2,3 +2,5 @@ jest es para hacer pruebas
 mientras que express es para hacer servidores
 npm install --save-dev jest
 npm install express --save
+
+con: curl localhost:3000/node
